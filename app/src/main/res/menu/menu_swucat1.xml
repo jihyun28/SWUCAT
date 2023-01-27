@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cat1"
+        android:title="@string/cat1" />
+    <item
+        android:id="@+id/cat2"
+        android:title="@string/cat2" />
+    <item
+        android:id="@+id/cat3"
+        android:title="@string/cat3" />
+    <item
+        android:id="@+id/cat4"
+        android:title="@string/cat4" />
+    <item
+        android:id="@+id/cat5"
+        android:title="@string/cat5" />
+    <item
+        android:id="@+id/cat6"
+        android:title="@string/cat6" />
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SWUCAT</string>
+    <string name="cat1">랑이</string>
+    <string name="cat2">슈땅이</string>
+    <string name="cat3">뉴냥이</string>
+    <string name="cat4">우치</string>
+    <string name="cat5">우동</string>
+    <string name="cat6">보리</string>
+    <string name="title_activity_cat1_album">cat1Album</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
